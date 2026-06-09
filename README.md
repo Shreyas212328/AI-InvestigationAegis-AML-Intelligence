@@ -4,6 +4,9 @@
 
 ![Platform Banner](https://via.placeholder.com/1200x400?text=AI+Investigation+Aegis)
 
+
+<img width="860" height="499" alt="image" src="https://github.com/user-attachments/assets/a3c4d527-37c5-4ecd-ad27-661c09fd11ef" />
+
 ---
 
 ## 🌍 Overview
@@ -159,16 +162,18 @@ Intelligence Layer
 
 ---
 
-## 📸 Screenshots
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ed8de8d1-855a-4b56-9437-06db22cd35a1" />
+Person
+  ↓
+Shell Company
+  ↓
+Sanctioned Bank
+  ↓
+Offshore Account
 
-Add screenshots here:
 
-```text
-/assets/dashboard.png
-/assets/sanctions.png
-/assets/network-graph.png
-/assets/heatmap.png
-```
+<img width="1309" height="769" alt="image" src="https://github.com/user-attachments/assets/2913902a-484a-4e6c-adfb-35f600b4003a" />
+
 
 ---
 
@@ -179,5 +184,8 @@ This repository demonstrates how sanctions intelligence, AML compliance, financi
 Designed as a portfolio-grade showcase inspired by solutions used by global banks, fintech companies, regulatory agencies, and financial crime investigation teams.
 
 ---
+
+<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/b6361df6-5878-4b81-969c-153f877621a9" />
+
 
 ### If you found this project interesting, consider giving it a ⭐
